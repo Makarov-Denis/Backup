@@ -36,7 +36,7 @@ rsync -a --progress --checksum --exclude '.*' . /tmp/backup
 ```
 
 - Скриншоты с результатами  выполнения представлены ниже:
-- 
+  
 ![Снимок59](https://github.com/Makarov-Denis/Backup/assets/148921246/58661d06-2c5c-4a13-a791-754ca2adcc27)
 
 ![Снимок60](https://github.com/Makarov-Denis/Backup/assets/148921246/df19a5e9-8f6c-4f03-8f3a-8c16bcb5c6ca)
