@@ -31,8 +31,9 @@
 Решение:
 - Команда (не стал выполнять с правами суперпользователя дабы ограничить список файлов разумными пределами):
 
-'''rsync -a --progress --checksum --exclude '.*' . /tmp/backup'''
-
+```bash
+rsync -a --progress --checksum --exclude '.*' . /tmp/backup
+```
 
 
 
